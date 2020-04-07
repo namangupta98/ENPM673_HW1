@@ -1,10 +1,12 @@
 # How to run the code
 
-Open terminal or command window in the directory of zip file. For example
+Navigate to your workspace and clone the repository. Type
 ```
-cd ~/pbhargav_hw1/Code
+cd <Workspace>
+git clone https://github.com/namangupta98/RANSAC/
+cd Code
 ```
-Now we are in the Code folder in terminal. To run the code for dataset-1, type
+To run the code for dataset-1, type
 ```
 python3 -i Data_1.py 
 ```
